@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-input_file = os.path.dirname(__file__) + '/../inputs/input_arnaud.txt'
+input_file = os.path.dirname(__file__) + '/../inputs/input_romain.txt'
 file = open(input_file, 'r')
 
 numbers = []
